@@ -1,5 +1,5 @@
 {
-  "name": "hraviratoms",
+  "name": "wedding-4",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,8 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "framer-motion": "^14.5.0",
     "next": "16.4.2",
     "react": "19.3.0",
+    "react-countdown": "^2.3.6",
     "react-dom": "19.3.0"
   },
   "devDependencies": {
