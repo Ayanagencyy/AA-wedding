@@ -467,7 +467,7 @@ export default function Home() {
                   <div className="medQR  w-full h-[481px] relative">
                     <Image src="/qrCode-2.png" alt="" fill className="object-contain" />
                   </div>
-                  <Link href="" target="_blank" className="medLink w-68.5 mt-3.5 p-1 text-center font-noto-armenian font-normal leading-[136%] text-[18px] border rounded-md border-[#3D521E] text-[#3D521E] hover:bg-[#F4A3B9] hover:border-[#f593ad] hover:text-white transition-colors duration-300">
+                  <Link href="https://t.me/+qiVjQjsyS1liMjli" target="_blank" className="medLink w-68.5 mt-3.5 p-1 text-center font-noto-armenian font-normal leading-[136%] text-[18px] border rounded-md border-[#3D521E] text-[#3D521E] hover:bg-[#F4A3B9] hover:border-[#f593ad] hover:text-white transition-colors duration-300">
                     Telegram  հղում
                   </Link>
                 </div>
